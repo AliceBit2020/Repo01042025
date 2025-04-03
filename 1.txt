@@ -1,2 +1,7 @@
-git 
-git bush1
+
+
+git first
+
+git from commit new-git-branch
+
+
